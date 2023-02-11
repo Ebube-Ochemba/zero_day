@@ -1,1 +1,1 @@
-My first vagriant project
+My first vagrant project
