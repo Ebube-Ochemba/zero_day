@@ -6,7 +6,7 @@
 ## The Things I learnt
 
 - Virtualization Basics
-> Virtual machine is and the concept of virtualization.
+> Virtual machines and the concept of virtualization.
 - Vagrant Introduction
 > What is Vagrant? Who wrote Vagrant?
 - Ubuntu
